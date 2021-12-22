@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Hyeobi is all you need!
+VIC Lab captain 2022 accepted!
 
-You can use the [editor on GitHub](https://github.com/vicmanitto/hyeobi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Contributions
+![Image](hyeobi.webp)  <img src="hyeobi2.jpg" alt="drawing" width="200"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our hyeobi net is young and rich, tall and handsome, strong and muscle. Hyeobi scored best OUYA score at ouya azumma dataset.
 
-### Markdown
+<img src="DDabong.jpg" alt="drawing" width="200"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Also, hyeobi net is super kind and polite. He tries to do his best to everyone. Ddabongmin gived hyeobi two ddabongs (maximum 2) for his kindness.
 
-```markdown
-Syntax highlighted code block
+<img src="Gucci.png" alt="drawing" width="200"/>
 
-# Header 1
-## Header 2
-### Header 3
+Last, hyeobi is good researcher. His first paper is CVPR oral paper. OUYA~.
 
-- Bulleted
-- List
+### Further works
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vicmanitto/hyeobi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. No stress be happy happy!
+2. More CVPR oral papers 
+3. Earn money more than used money * 3 (210 billion won)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Want to try hyeobi? Check out our [lab site](https://www.viclab.kaist.ac.kr/) or come to KAIST N24 LG Innovationhall to see him.
