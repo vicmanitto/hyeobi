@@ -2,7 +2,7 @@
 VIC Lab captain 2022 accepted!
 
 ### Contributions
-![Image](hyeobi.webp)  <img src="hyeobi2.jpg" alt="drawing" width="200"/>
+![Image](hyeobi.png)  <img src="hyeobi2.jpg" alt="drawing" width="200"/>
 
 Our hyeobi net is young and rich, tall and handsome, strong and muscle. Hyeobi scored best OUYA score at ouya azumma dataset.
 
